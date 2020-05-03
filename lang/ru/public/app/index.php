@@ -1,0 +1,6 @@
+<?php
+
+$MESS['QQ_SVN_PUBLIC_APP_DATE'] = 'Дата';
+$MESS['QQ_SVN_PUBLIC_APP_AUTHOR'] = 'Автор';
+$MESS['QQ_SVN_PUBLIC_APP_DESCRIPTION'] = 'Описание';
+$MESS['QQ_SVN_PUBLIC_APP_COMMIT'] = 'Коммит';

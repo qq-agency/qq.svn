@@ -1,0 +1,45 @@
+{
+  "name": "qq-agency/qq.svn",
+  "description": "Bitrix24 SVN providers",
+  "version": "1.0.0",
+  "type": "bitrix-d7-module",
+  "keywords": [
+    "bitrix",
+    "bitrix-module",
+    "bitrix-cms",
+    "bitrix-d7",
+    "github",
+    "svn",
+    "git"
+  ],
+  "homepage": "https://github.com/qq-agency/qq.svn",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Panteleev",
+      "email": "sergey@php.net",
+      "homepage": "https://s-panteleev.ru"
+    },
+    {
+      "name": "QQ Agency",
+      "email": "info@qq-agency.ru",
+      "homepage": "https://qq-agency.ru"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/qq-agency/qq.svn/issues"
+  },
+  "extra": {
+    "installer-name": "ps.svn"
+  },
+  "require": {
+    "php": ">=7.0",
+    "composer/installers": "~1",
+    "ext-json": "*",
+    "ext-soap": "*",
+    "ext-mbstring": "*"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  }
+}
